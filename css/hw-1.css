@@ -1,0 +1,24 @@
+.button-area {
+  display: inline-block;
+  background-color: #fff;
+  padding: 30px;
+}
+
+.btn {
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  color: #fff;
+}
+
+.btn:focus {
+  transform: scale(0.98);
+}
+
+.start-btn {
+  background-color: green;
+}
+
+.stop-btn {
+  background-color: red;
+}
